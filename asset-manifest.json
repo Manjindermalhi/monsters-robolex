@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-robolex/static/css/main.a623f257.css",
+    "main.js": "/monsters-robolex/static/js/main.44e34052.js",
+    "static/js/787.3666414d.chunk.js": "/monsters-robolex/static/js/787.3666414d.chunk.js",
+    "index.html": "/monsters-robolex/index.html",
+    "main.a623f257.css.map": "/monsters-robolex/static/css/main.a623f257.css.map",
+    "main.44e34052.js.map": "/monsters-robolex/static/js/main.44e34052.js.map",
+    "787.3666414d.chunk.js.map": "/monsters-robolex/static/js/787.3666414d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a623f257.css",
+    "static/js/main.44e34052.js"
+  ]
+}
